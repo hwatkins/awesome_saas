@@ -5,3 +5,12 @@
 [Part 2](https://medium.com/@cliffordoravec/the-no-bs-approach-to-building-your-saas-startups-launch-list-part-2-of-the-epic-guide-to-8cc371be772c#.2vmvzdo2p) Startups launch list
 
 [Part 3](https://hackernoon.com/make-it-rain-building-an-mvp-for-fun-and-profit-part-3-of-the-epic-guide-to-bootstrapping-be2b00f697c9#.umcnekiie) MVP for fun and profit
+
+
+# Inbound Marketing
+[inbound.org](https://inbound.org/)
+
+
+
+# Running Costs
+[Cushion](https://cushionapp.com/running-costs/)
